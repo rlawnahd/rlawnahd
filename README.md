@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 # Skills
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/vite-61DAFB?style=flat&logo=Vite&logoColor=white">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawnahd)](https://github.com/rlawnahd/github-readme-stats)
 
